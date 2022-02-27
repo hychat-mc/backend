@@ -1,8 +1,8 @@
-# Dashboard UI & API
+# Backend Functionality
 
 > This component is a work in progress! 
 
-The dashboard uses Next.js and Chakra UI to create an interactive dashboard to manage Hypixel bot(s) and view chat logs. It also fetches messages from a back-end using an API (found in `src/pages/api`).
+The backend uses Fastify and Nest.js to provide websocket communication and authentication with the Mineflayer component.
 
 ## Workspace Layout
 
